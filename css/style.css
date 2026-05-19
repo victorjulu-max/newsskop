@@ -30,7 +30,11 @@ max-width:1000px;
 margin:auto;
 padding:20px;
 }
-
+.daftar-berita{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:20px;
+}
 .news-card{
 background:white;
 padding:20px;
