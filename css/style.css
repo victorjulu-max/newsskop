@@ -1,20 +1,20 @@
 body{
 font-family:Arial,sans-serif;
 margin:0;
-background:#f2f2f2;
+background:#ffeaea;
 color:#222;
 }
 
 h1{
 margin:0;
 padding:20px;
-background:#0a1f44;
+background:red;
 color:white;
 text-align:center;
 }
 
 h2{
-color:#0a1f44;
+color:red;
 padding-left:20px;
 }
 
@@ -24,26 +24,23 @@ padding-right:20px;
 line-height:1.6;
 }
 
-a{
-text-decoration:none;
-color:#0056b3;
-}
-
 nav{
-background:#123a7a;
+background:#cc0000;
 padding:12px;
 text-align:center;
 }
 
 nav a{
-color:white;
+color:yellow;
 margin:10px;
 font-weight:bold;
+text-decoration:none;
+font-size:18px;
 }
 
 footer{
 text-align:center;
 padding:20px;
 margin-top:30px;
-background:#ddd;
+background:#ffb3b3;
 }
